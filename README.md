@@ -3,8 +3,7 @@
 ## Project Overview
 This project performs data cleaning, preprocessing, exploratory data analysis (EDA), and visualization on the Netflix Titles dataset. The goal is to uncover trends and insights about Netflix's content library.
 
-### Dataset
-Dataset Source : [Netflix Titles Dataset](https://www.kaggle.com/datasets/shivamb/netflix-shows/data)
+**Dataset Source :** [Netflix Titles Dataset](https://www.kaggle.com/datasets/shivamb/netflix-shows/data)
 
 ### Objectives
 - Load and understand the dataset
